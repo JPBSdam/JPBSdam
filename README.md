@@ -42,6 +42,15 @@
 
 <details>
 <br>
+    <summary>Preferencias tecnológicas</summary>
+    Teniendo en cuenta que mi objetivo es convertirme en desarrollador indie de videojuegos, me centraré en desarrollar habilidades de full-stack, bases de datos y UI/UX para intentar otorgar una buena experiencia de usuario a los jugadores.<br>
+<br>
+
+>La imaginación es el combustible de la creación en los videojuegos. -Shigeru Miyamoto
+
+</details>
+<details>
+<br>
     <summary>Futuros proyectos</summary>
     De momento este es mi roadmap de desarrollo de proyectos de videojuegos para ir trabajando mientras aprendo a programar con el ciclo formativo.
 <br>
