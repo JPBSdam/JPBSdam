@@ -1,7 +1,7 @@
 # Bienvenido a JPBSdam
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGg5dGNzejM5aDVoZGU3dXJxajIxZXJuZzI1YmNhbzZheHkybHFtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hh9sPYeSWhAUx6NDBM/giphy.gif" width="1500" height="80" />
 
-<details open>
+<details>
     <br>
     <summary>Sobre mi</summary>
     ¡Hola! Soy Jesús Pablo Bermejo Salar. Actualmente estoy en proceso de aprender Programación y desarrollo de aplicaciones, especialmente en el ámbito de los videojuegos🎮, aunque también me gustaría explorar las cuestiones filosóficas y prácticas relacionadas con la inteligencia artificial🤖. Aunque todavía no tengo experiencia en programación, tengo varios proyectos en mente y estoy emocionado por comenzar a trabajar en ellos.<br>
