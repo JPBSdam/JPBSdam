@@ -43,8 +43,8 @@
 <details>
 <br>
     <summary>Futuros proyectos</summary>
-De momento este es mi roadmap de desarrollo de proyectos de videojuegos para ir trabajando mientras aprendo a programar con el ciclo formativo.
-
+    De momento este es mi roadmap de desarrollo de proyectos de videojuegos para ir trabajando mientras aprendo a programar con el ciclo formativo.
+<br>
 <ol>
   <li>Drafker (variante de poker para moviles)</li>
   <li>Roommates (juego de tareas semicooperativo)</li>
@@ -69,5 +69,7 @@ De momento este es mi roadmap de desarrollo de proyectos de videojuegos para ir 
 - https://www.cleanpng.com/png-intellij-idea-integrated-development-environment-c-1207590/
 - https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg
 - https://commons.wikimedia.org/wiki/File:Apache_NetBeans_Logo.svg
+
+<!-- Esta es una sección bibliográfica para la tarea y que no se incluiría en un perfil real -->
     
 </details>
