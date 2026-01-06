@@ -2,7 +2,6 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGg5dGNzejM5aDVoZGU3dXJxajIxZXJuZzI1YmNhbzZheHkybHFtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hh9sPYeSWhAUx6NDBM/giphy.gif" width="1500" height="80" />
 
 <details>
-    <br>
     <summary>Sobre mi</summary>
     ¡Hola! Soy Jesús Pablo Bermejo Salar. Actualmente estoy en proceso de aprender Programación y desarrollo de aplicaciones, especialmente en el ámbito de los videojuegos🎮, aunque también me gustaría explorar las cuestiones filosóficas y prácticas relacionadas con la inteligencia artificial🤖. Aunque todavía no tengo experiencia en programación, tengo varios proyectos en mente y estoy emocionado por comenzar a trabajar en ellos.<br>
     Uno de los primeros proyectos que quiero realizar es un videojuego llamado Drafker, que espero que suponga una gran experiencia de aprendizaje. Me motiva la idea de crear algo desde cero.<br>
@@ -12,7 +11,6 @@
 </details>
 
 <details>
-    <br>
     <summary>Educación</summary>
 
 - Licenciado en Filosofia, [Universidad de Murcia](https://www.um.es/).
@@ -30,7 +28,6 @@
 </details>
 
 <details>
-    <br>
     <summary>Stack tecnológico conocido</summary>
 
 | Lenguajes de programación | Lenguajes de Marcas | Bases de datos | Entornos de desarrollo | Game Engines | Otros |
@@ -41,7 +38,6 @@
 </details>
 
 <details>
-<br>
     <summary>Preferencias tecnológicas</summary>
     Teniendo en cuenta que mi objetivo es convertirme en desarrollador indie de videojuegos, me centraré en desarrollar habilidades de full-stack, bases de datos y UI/UX para intentar otorgar una buena experiencia de usuario a los jugadores.<br>
 <br>
@@ -50,7 +46,6 @@
 
 </details>
 <details>
-<br>
     <summary>Futuros proyectos</summary>
     De momento este es mi roadmap de desarrollo de proyectos de videojuegos para ir trabajando mientras aprendo a programar con el ciclo formativo.
 <br>
@@ -63,7 +58,6 @@
 </details>
 
 <details>
-<br>
     <summary>Recursos</summary>
         Enlaces y recursos utilizados para crear el perfil:
     <br><br>
