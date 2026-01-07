@@ -1,79 +1,102 @@
-# Bienvenido a JPBSdam
-<img src=""/>
+# Welcome to JPBSdam
+<p align="center">
+  <img src="github_header.png" alt="Header" />
+</p>
 
 <details open>
-    <summary>About me</summary>
-    ¡Hola! Soy Jesús Pablo Bermejo Salar. Actualmente estoy en proceso de aprender Programación y desarrollo de aplicaciones, especialmente en el ámbito de los videojuegos🎮, aunque también me gustaría explorar las cuestiones filosóficas y prácticas relacionadas con la inteligencia artificial🤖. Aunque todavía no tengo experiencia en programación, tengo varios proyectos en mente y estoy emocionado por comenzar a trabajar en ellos.<br>
-    Uno de los primeros proyectos que quiero realizar es un videojuego llamado Drafker, que espero que suponga una gran experiencia de aprendizaje. Me motiva la idea de crear algo desde cero.<br>
-    Mi meta ideal es poder vivir como desarrollador indie de videojuegos y aplicaciones. Siempre estoy abierto a aprender y colaborar, así que no dudes en conectarte conmigo.
+  <summary>About Me</summary>
 
-<img src="https://github.com/user-attachments/assets/6d10f2bb-8eb2-4da0-9019-c281b81a9756" width="1500" height="200" />
+  Hello! I'm Jesús Pablo Bermejo Salar, a DAM student passionate about backend development, mobile apps, and game development.  
+  I enjoy creating projects from scratch, learning new technologies, and collaborating in team environments.  
+  Currently, I'm exploring Python, Flutter, and cloud services, while working on personal projects to strengthen my programming skills.  
+  Always eager to learn and take on new challenges in software development!
+
+  Contact me at [jesuspablobermejosalar@gmail.com](jesuspablobermejosalar@gmail.com)
 </details>
 
 <details>
-  <summary>Educación</summary>
+  <summary>Education</summary>
   <ul>
     <li>
-      <a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-13221">Ciclo formativo de grado superior en Desarrollo de Aplicaciones Multiplataforma</a> (en curso),
-      <a href="https://sites.google.com/view/fplaconservera">CIFPD La Conservera</a>.
+      <a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-13221">Multiplatform Application Development</a> (in progress),
+      <a href="https://sites.google.com/view/fplaconservera">CIFPD La Conservera</a>
     </li>
     <li>
-      Licenciado en Filosofía,
-      <a href="https://www.um.es/">Universidad de Murcia</a>.
+      Bachelor’s Degree in Philosophy, <a href="https://www.um.es/">University of Murcia</a>
     </li>
     <li>
-      Máster en Formación del Profesorado,
-      <a href="https://www.um.es/">Universidad de Murcia</a>.
+      Master’s Degree in Teacher Training, <a href="https://www.um.es/">University of Murcia</a>
     </li>
   </ul>
 </details>
 
 <details>
-    <summary>Stack tecnológico conocido</summary>
-
-| Lenguajes de programación | Lenguajes de Marcas | Bases de datos | Entornos de desarrollo | Game Engines | Otros |
-|---------------------------|---------------------|----------------|------------------------|--------------|-------|
-| <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Light.svg" width="40" height="40" /> <br> Python | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Markdown-Light.svg" width="40" height="40" /> <br> Markdown | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Light.svg" width="40" height="40" /> <br> MySQL | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Light.svg" width="40" height="40" /> <br> VScode | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Godot-Dark.svg" width="40" height="40" /> <br> Godot | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" width="40" height="40" /> <br> Git |
-| <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Light.svg" width="40" height="40" /> <br> Java | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" width="40" height="40" /> <br> HTML | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" width="40" height="40" /> <br> MongoDB | <img src="https://banner2.cleanpng.com/20180416/dye/avfpmprre.webp" width="40" height="40" /> <br> Intellij IDEA | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/UnrealEngine.svg" width="40" height="40" /> <br> Unreal Engine | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Light.svg" width="40" height="40" /> <br> Github |
-| <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" width="40" height="40" /> <br> Javascript | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" width="40" height="40" /> <br> CSS | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Light.svg" width="40" height="40" /> <br> postgreSQL | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png?20180920122700" width="40" height="40" /> <br> Netbeans | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Unity-Light.svg" width="40" height="40" /> <br> Unity | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Illustrator.svg" width="40" height="40" /> <br> Inteligencia Artificial |
+  <summary>Learning Tech Stack</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Development Area</th>
+        <th>Technologies</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Backend Development</td>
+        <td>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+        </td>
+      </tr>
+      <tr>
+        <td>Mobile Development</td>
+        <td>
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+          <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+        </td>
+      </tr>
+      <tr>
+        <td>Web Development</td>
+        <td>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+          <img src="https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logo=xml&logoColor=white">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        </td>
+      </tr>
+      <tr>
+        <td>Databases</td>
+        <td>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+        </td>
+      </tr>
+      <tr>
+        <td>Version Control</td>
+        <td>
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+        </td>
+      </tr>
+      <tr>
+        <td>Development Tools</td>
+        <td>
+          <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+          <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+          <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </details>
 
 <details>
-    <summary>Preferencias tecnológicas</summary>
-    Teniendo en cuenta que mi objetivo es convertirme en desarrollador indie de videojuegos, me centraré en desarrollar habilidades de full-stack, bases de datos y UI/UX para intentar otorgar una buena experiencia de usuario a los jugadores.<br>
-<br>
-
->La imaginación es el combustible de la creación en los videojuegos. -Shigeru Miyamoto
-
-</details>
-<details>
-    <summary>Futuros proyectos</summary>
-    De momento este es mi roadmap de desarrollo de proyectos de videojuegos para ir trabajando mientras aprendo a programar con el ciclo formativo.
-<br>
-<ol>
-  <li>Drafker (variante de poker para moviles)</li>
-  <li>Roommates (juego de tareas semicooperativo)</li>
-  <li>Adventures in dragon valley (RPG semicooperativo)</li>
-</ol>
-<img src="https://i.imgur.com/nVNqv7w.jpeg" width="300" height="200" />
-</details>
-
-<details>
-    <summary>Recursos</summary>
-        Enlaces y recursos utilizados para crear el perfil:
-    <br><br>
-
-- https://giphy.com/gifs/justin-purple-confetti-Hh9sPYeSWhAUx6NDBM agradecimientos a justin.
-- https://sites.google.com/view/fplaconservera
-- https://www.um.es/
-- https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-13221
-- https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889
-- https://pixabay.com/es/photos/tecnolog%C3%ADa-computadora-c%C3%B3digo-1283624/ agradecimientos a pexels.
-- https://emojipedia.org/es/robot
-- https://www.cleanpng.com/png-intellij-idea-integrated-development-environment-c-1207590/
-- https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg
-- https://commons.wikimedia.org/wiki/File:Apache_NetBeans_Logo.svg
-
-<!-- Esta es una sección bibliográfica para la tarea y que no se incluiría en un perfil real -->
-    
+  <summary>Coming Up Next</summary>
+  <ul>
+    <li>Python development project with Flet 🐍</li>
+    <li>Automation project with n8n ⚙️</li>
+    <li>Web development project 🌐</li>
+    <li>Picker gamedev project 🎮</li>  
+  </ul>
 </details>
