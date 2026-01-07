@@ -11,7 +11,7 @@
   Currently, I'm exploring Python, Flutter, and cloud services, while working on personal projects to strengthen my programming skills.  
   Always eager to learn and take on new challenges in software development!</p>
   
-  <p>Contact me at <a href="jesuspablobermejosalar@gmail.com">jesuspablobermejosalar@gmail.com</a></p>
+  <p>Contact me at <a href="mailto:jesuspablobermejosalar@gmail.com">jesuspablobermejosalar@gmail.com</a></p>
 </details>
 
 <details>
