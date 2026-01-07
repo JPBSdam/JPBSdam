@@ -6,12 +6,12 @@
 <details open>
   <summary>About Me</summary>
   <br>
-  Hello! I'm Jesús Pablo Bermejo Salar, a DAM student passionate about backend development, mobile apps, and game development.  
+  <p>Hello! I'm Jesús Pablo Bermejo Salar, a DAM student passionate about backend development, mobile apps, and game development.  
   I enjoy creating projects from scratch, learning new technologies, and collaborating in team environments.  
   Currently, I'm exploring Python, Flutter, and cloud services, while working on personal projects to strengthen my programming skills.  
-  Always eager to learn and take on new challenges in software development!
-  <br>
-  Contact me at [jesuspablobermejosalar@gmail.com](jesuspablobermejosalar@gmail.com)
+  Always eager to learn and take on new challenges in software development!</p>
+  
+  <p>Contact me at <a href="jesuspablobermejosalar@gmail.com">jesuspablobermejosalar@gmail.com</a></p>
 </details>
 
 <details>
