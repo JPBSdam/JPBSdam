@@ -1,6 +1,6 @@
 # Welcome to JPBSdam
 <p align="center">
-  <img src="github_header.png" alt="Header" />
+  <img src="github_header2.png" alt="Header" />
 </p>
 
 <details open>
