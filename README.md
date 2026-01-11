@@ -8,6 +8,7 @@
   <br>
   <p>Hello! I'm Jesús Pablo Bermejo Salar, a DAM student passionate about backend development, mobile apps, and game development.  
   I enjoy creating projects from scratch, learning new technologies, and collaborating in team environments.  
+  
   Currently, I'm exploring Python, Flutter, and cloud services, while working on personal projects to strengthen my programming skills.  
   Always eager to learn and take on new challenges in software development!</p>
   
